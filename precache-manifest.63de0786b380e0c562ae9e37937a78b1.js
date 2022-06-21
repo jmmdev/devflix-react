@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "53d5a130d51cc536fe2a",
-    "url": "/devflix-react/static/css/main.7f3047cf.chunk.css"
+    "revision": "4920bc0926880959e20e",
+    "url": "/devflix-react/static/css/main.c115d235.chunk.css"
   },
   {
-    "revision": "53d5a130d51cc536fe2a",
-    "url": "/devflix-react/static/js/main.53d5a130.chunk.js"
+    "revision": "4920bc0926880959e20e",
+    "url": "/devflix-react/static/js/main.4920bc09.chunk.js"
   },
   {
     "revision": "546dafc18c5050b214b1",
@@ -24,16 +24,16 @@ self.__precacheManifest = [
     "url": "/devflix-react/static/media/devflix-logo.13895efe.png"
   },
   {
-    "revision": "1735b8087a7da730af7720fa80f666af",
-    "url": "/devflix-react/static/media/myFontMedium.1735b808.otf"
+    "revision": "e6914f49919955163f88bcd37ac5bf64",
+    "url": "/devflix-react/static/media/myFontBold.e6914f49.otf"
   },
   {
     "revision": "672608a05e1eec1bbe92bb8243792264",
     "url": "/devflix-react/static/media/myFontRegular.672608a0.otf"
   },
   {
-    "revision": "e6914f49919955163f88bcd37ac5bf64",
-    "url": "/devflix-react/static/media/myFontBold.e6914f49.otf"
+    "revision": "1735b8087a7da730af7720fa80f666af",
+    "url": "/devflix-react/static/media/myFontMedium.1735b808.otf"
   },
   {
     "revision": "2f025ce372d9179de64400cd695c94b8",
@@ -232,7 +232,7 @@ self.__precacheManifest = [
     "url": "/devflix-react/static/media/show-logo.b6d320fa.png"
   },
   {
-    "revision": "c0ffd2d5576eef7710367d10f26f2372",
+    "revision": "49e5715a7f2796052c93f8818b7159c7",
     "url": "/devflix-react/index.html"
   }
 ];
