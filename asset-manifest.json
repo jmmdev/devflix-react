@@ -1,7 +1,7 @@
 {
-  "main.css": "/devflix-react/static/css/main.c2dddbf1.chunk.css",
-  "main.js": "/devflix-react/static/js/main.1751d1de.chunk.js",
-  "main.js.map": "/devflix-react/static/js/main.1751d1de.chunk.js.map",
+  "main.css": "/devflix-react/static/css/main.7f3047cf.chunk.css",
+  "main.js": "/devflix-react/static/js/main.53d5a130.chunk.js",
+  "main.js.map": "/devflix-react/static/js/main.53d5a130.chunk.js.map",
   "static/js/1.546dafc1.chunk.js": "/devflix-react/static/js/1.546dafc1.chunk.js",
   "static/js/1.546dafc1.chunk.js.map": "/devflix-react/static/js/1.546dafc1.chunk.js.map",
   "static/js/2.d1696810.chunk.js": "/devflix-react/static/js/2.d1696810.chunk.js",
@@ -9,7 +9,7 @@
   "runtime~main.js": "/devflix-react/static/js/runtime~main.1bb680df.js",
   "runtime~main.js.map": "/devflix-react/static/js/runtime~main.1bb680df.js.map",
   "static/media/devflix-logo.png": "/devflix-react/static/media/devflix-logo.13895efe.png",
-  "static/media/App.css": "/devflix-react/static/media/myFontMedium.1735b808.otf",
+  "static/media/App.css": "/devflix-react/static/media/myFontBold.e6914f49.otf",
   "static/media/img (1).jpg": "/devflix-react/static/media/img (1).2f025ce3.jpg",
   "static/media/img (2).jpg": "/devflix-react/static/media/img (2).5b067a0c.jpg",
   "static/media/img (3).jpg": "/devflix-react/static/media/img (3).a0ae68b7.jpg",
@@ -59,8 +59,8 @@
   "static/media/trailer.mp4": "/devflix-react/static/media/trailer.931255e7.mp4",
   "static/media/placeholder.jpg": "/devflix-react/static/media/placeholder.6e4e1425.jpg",
   "static/media/show-logo.png": "/devflix-react/static/media/show-logo.b6d320fa.png",
-  "static/css/main.c2dddbf1.chunk.css.map": "/devflix-react/static/css/main.c2dddbf1.chunk.css.map",
+  "static/css/main.7f3047cf.chunk.css.map": "/devflix-react/static/css/main.7f3047cf.chunk.css.map",
   "index.html": "/devflix-react/index.html",
-  "precache-manifest.db3e23e8eb9a4383c2704d539717782b.js": "/devflix-react/precache-manifest.db3e23e8eb9a4383c2704d539717782b.js",
+  "precache-manifest.3b16c7a4cd10b10560359707d836ac55.js": "/devflix-react/precache-manifest.3b16c7a4cd10b10560359707d836ac55.js",
   "service-worker.js": "/devflix-react/service-worker.js"
 }
