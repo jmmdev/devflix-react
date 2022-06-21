@@ -1,7 +1,7 @@
 {
-  "main.css": "/devflix-react/static/css/main.c115d235.chunk.css",
-  "main.js": "/devflix-react/static/js/main.4eb0f7c3.chunk.js",
-  "main.js.map": "/devflix-react/static/js/main.4eb0f7c3.chunk.js.map",
+  "main.css": "/devflix-react/static/css/main.2a8bd1d8.chunk.css",
+  "main.js": "/devflix-react/static/js/main.ec4a7d7c.chunk.js",
+  "main.js.map": "/devflix-react/static/js/main.ec4a7d7c.chunk.js.map",
   "static/js/1.546dafc1.chunk.js": "/devflix-react/static/js/1.546dafc1.chunk.js",
   "static/js/1.546dafc1.chunk.js.map": "/devflix-react/static/js/1.546dafc1.chunk.js.map",
   "static/js/2.d1696810.chunk.js": "/devflix-react/static/js/2.d1696810.chunk.js",
@@ -59,8 +59,8 @@
   "static/media/trailer.mp4": "/devflix-react/static/media/trailer.931255e7.mp4",
   "static/media/placeholder.jpg": "/devflix-react/static/media/placeholder.6e4e1425.jpg",
   "static/media/show-logo.png": "/devflix-react/static/media/show-logo.b6d320fa.png",
-  "static/css/main.c115d235.chunk.css.map": "/devflix-react/static/css/main.c115d235.chunk.css.map",
+  "static/css/main.2a8bd1d8.chunk.css.map": "/devflix-react/static/css/main.2a8bd1d8.chunk.css.map",
   "index.html": "/devflix-react/index.html",
-  "precache-manifest.deb97c0ed066cf088bf9d460842f337b.js": "/devflix-react/precache-manifest.deb97c0ed066cf088bf9d460842f337b.js",
+  "precache-manifest.67881d4dda01b60e95d90a4fd60d5efc.js": "/devflix-react/precache-manifest.67881d4dda01b60e95d90a4fd60d5efc.js",
   "service-worker.js": "/devflix-react/service-worker.js"
 }
